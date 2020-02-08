@@ -1,0 +1,13 @@
+Package: select_testthat_tests
+Title: select_testthat_tests
+Version: 0.0.1
+Authors@R: c(
+    person(given = "Shane",
+           family = "Delamore",
+           role = "aut",
+           email = "shane@genui.co")
+    )
+Description: How to run individual tests?
+License: MIT
+Encoding: UTF-8
+LazyData: true
